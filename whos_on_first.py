@@ -1,6 +1,7 @@
 ##################################################################################################
 ##
 ##  name:           whos_on_first.py
+##  author:         Matt Crane
 ##  date:           1/4/2018
 ##  description:    a simple humorous interactive program based on the classic(genius)comic sketch
 ##                  "Who's On First" by Abbott and Costello circa 1937 (see on YouTube)
